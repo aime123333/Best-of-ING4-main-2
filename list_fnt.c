@@ -1,9 +1,3 @@
-#include <stdio.h>
-#include <string.h>
-
-#define MAX_LEN 50
-#define NB_USERS 5
-
 
 <<<<<<< HEAD
 // Fonction de saisie (groupe 1)
