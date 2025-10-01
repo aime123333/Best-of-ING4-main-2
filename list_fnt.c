@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 // Fonction de vérification (groupe 2)
@@ -14,6 +15,8 @@ int verifier_authentification(const char *identifiant, const char *motdepasse) {
     }
     return 0; // Aucun identifiant/mot de passe ne correspond
 }
+=======
+>>>>>>> demande
 
 
 >>>>>>> verification
