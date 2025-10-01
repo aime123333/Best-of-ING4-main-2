@@ -18,7 +18,6 @@ int verification_identifiants(const char *identifiant, const char *motdepasse) {
     return 0; // Aucun identifiant/mot de passe ne correspond
 }
 
-
 int main() {
     char identifiant[MAX_LEN];
     char motdepasse[MAX_LEN];
