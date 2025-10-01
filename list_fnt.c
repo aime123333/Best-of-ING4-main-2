@@ -4,6 +4,7 @@
 #define MAX_LEN 50
 #define NB_USERS 5
 
+
 // Fonction de vérification (groupe 2)
 int verification_identifiants(const char *identifiant, const char *motdepasse) {
     // Liste des identifiants et mots de passe valides
@@ -17,7 +18,7 @@ int verification_identifiants(const char *identifiant, const char *motdepasse) {
     }
     return 0; // Aucun identifiant/mot de passe ne correspond
 }
-
+/*
 int main() {
     char identifiant[MAX_LEN];
     char motdepasse[MAX_LEN];
@@ -31,4 +32,5 @@ int main() {
     }
 
     return 0;
-}
+}*/
+
